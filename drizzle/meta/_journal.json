@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790831078395,
+      "tag": "0000_wooden_doomsday",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790832497148,
+      "tag": "0001_powerful_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790833224767,
+      "tag": "0002_cheerful_morph",
+      "breakpoints": true
+    }
+  ]
+}

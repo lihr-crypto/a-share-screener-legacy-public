@@ -1,0 +1,8 @@
+{
+  "name": "a-share-screener-legacy",
+  "category": "finance",
+  "title": "A 股筛选早期 Sites 实现",
+  "status": "legacy",
+  "catalog": "https://github.com/lihr-crypto?tab=repositories",
+  "migration_date": "2026-10-18"
+}
